@@ -1,10 +1,21 @@
 {
     "name": "Calculadora Simples",
     "short_name": "Calculadora",
+    "description": "Um aplicativo de calculadora simples visite: https://github.com/wesleyBU/calculadora-pwa",
     "icons": [
         {
             "src": "image/icon-512.png",
             "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "image/icon-256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "image/icon-128.png",
+            "sizes": "128x128",
             "type": "image/png"
         }
     ],
@@ -12,5 +23,17 @@
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#6c757d",
-    "theme_color": "#6c757d"
+    "theme_color": "#6c757d",
+    "screenshots": [
+        {
+            "src": "image/screenshot-425x557.png",
+            "sizes": "557x425",
+            "type": "image/png"
+        },
+        {
+            "src": "image/screenshot-716x1366.png",
+            "sizes": "1366x716",
+            "type": "image/png"
+        }
+    ]
 }
