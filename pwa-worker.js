@@ -1,9 +1,10 @@
 let cacheName = 'meu-app-cache-v1';
 let filesToCache = [
-    '//',
-    '//index.html',
-    '//calc.js',
-    '//style.css'
+    '/',
+    '/index.html',
+    '/calc.js',
+    '/style.css',
+    'https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css'
 ];
 
 self.addEventListener('install', function(event) {
