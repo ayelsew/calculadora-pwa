@@ -1,7 +1,7 @@
 // Registra o service worker
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker
-    .register('./service-worker.js')
+    .register('./pwa-worker.js')
     .then(function() { 
         console.log('Service Worker Registered'); 
     }, function(error){
