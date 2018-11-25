@@ -1,0 +1,51 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #6c757d;
+}
+
+.display-calc {
+    margin: 0;
+    height: 40%;
+}
+
+.pad-buttons {
+    height: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pad {
+    height: 90%;
+    padding: 0;
+}
+
+.pad-area {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pad-numbers {
+    display: grid;
+    grid-template-rows: auto auto auto auto;
+    grid-template-columns: auto auto auto;
+}
+
+.pad-operations {
+    display: grid;
+    grid-template-columns: auto;
+}
+
+/* @Sobre escrita no Bootstrap */
+.btn{
+    border-radius: 0;
+}

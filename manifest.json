@@ -1,0 +1,16 @@
+{
+    "name": "Calculadora Simples",
+    "short_name": "Calculadora",
+    "icons": [
+        {
+            "src": "image/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#6c757d",
+    "theme_color": "#6c757d"
+}
