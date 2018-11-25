@@ -4,4 +4,4 @@ Esse é um aplicativo web de calculadora, segue os padrões de um PWA (Progressi
 
 Versão: 1.0
 
-Link <a href="" >aqui</a>
+Link para o aplicativo: <a href="https://calculadora-pwa.firebaseapp.com/" >calculadora PWA.</a>
